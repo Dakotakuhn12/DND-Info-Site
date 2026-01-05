@@ -1,0 +1,23 @@
+body {
+  background-color: #e0fbfc;
+  margin: 15px;
+}
+
+#main_header {
+  padding: 5px;
+  background-color: #ee6c4d;
+}
+
+.main_header {
+  padding: 5px;
+  color: #e0fbfc;
+}
+
+#display_info {
+  background-color: #ee6c4d;
+}
+
+.button {
+  margin: 5px;
+  padding: 5px;
+}
